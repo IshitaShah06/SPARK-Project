@@ -1,0 +1,2 @@
+# SPARK-Project
+Using Python made the movie IDs and names from movies file, user IDs, movie IDs, and ratings from ratings file, and connected them by movie IDs  the computations with only movie IDs and went back to find corresponding movie names before printing the results. Created rating pairs for movies that were rated by same user. Made sure that all pairs only show up once in your created pairs and compute the correlations and co-occurrence for each pair. Filtered the output down to the several input movies and printed the result.
